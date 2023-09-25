@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Next Js**
 
-- 👨‍💻 My Portfolio - [https://sayan-paul-portfolio.netlify.app/](https://sayan-paul-portfolio.netlify.app/)
-
 - 💬 Ask me about **MEARN Stack, Java Full Stack and Data Structure & Algorithms**
 
 <h3 align="left">Connect with me:</h3>
